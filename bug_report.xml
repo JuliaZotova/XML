@@ -7,7 +7,7 @@
 	<Reporter>Julia Zotova</Reporter>,       
 	<Platform>Windows</Platform>,                    
 	<Operating_System>Win 10</Operating_System,
-	<Browser>Google Chrome</Browser>,     
+	<browser>Google Chrome</browser>,     
 	<URL>site-adress</URL>,        
 	<Description>unable to add a second item</Description>,
 
