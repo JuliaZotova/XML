@@ -16,7 +16,7 @@
     go to product abc via the search bar,
     add new item to cart via "add to cart" button (see screenshot),
     go to cart
-  </Steps_to_reproduce>
+	</Steps_to_reproduce>
 	
 
 	<Expected_result>The cart should contain 2 items</Expected_result>,
