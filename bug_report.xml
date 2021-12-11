@@ -20,4 +20,4 @@
 	
 
 	<Expected_result>The cart should contain 2 items</Expected_result>,
-	<Actual_result>The cart contains only 1 item<?Actual_result>
+	<Actual_result>The cart contains only 1 item</Actual_result>
